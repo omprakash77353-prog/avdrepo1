@@ -7,7 +7,7 @@ branches:
         -main
 jobs:
      print-message:
-     runs-on: ubunstu-latest
+     runs-on: ubuntu-latest
 
      steps:
      #step1
